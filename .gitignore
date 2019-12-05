@@ -104,3 +104,21 @@ venv.bak/
 .mypy_cache/
 
 .DS_Store
+
+psets/pset2/data/enwik8\.txt
+
+psets/pset2/dblp\.zip
+
+psets/pset2/dblp_authors\.npz
+
+psets/pset2/dblp_graph\.npz
+
+psets/pset2/enwik8
+
+psets/pset2/enwik8\.zip\.1
+
+psets/pset2/enwik8\.zip
+
+psets/pset2/PS2_best\.ipynb
+
+psets/pset2/PS2_Vorobyeva_2\.ipynb
